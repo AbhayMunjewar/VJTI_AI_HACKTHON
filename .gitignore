@@ -92,3 +92,8 @@ coverage.xml
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Secrets & Environment Variables
+.env
+*.env
+
